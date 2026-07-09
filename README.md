@@ -1,16 +1,29 @@
-## Hi there 👋
+### Привет, я Айдар 👋
 
-<!--
-**we1lung/we1lung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик (Python), сфокусирован на FastAPI и интеграции LLM в веб-приложения.
 
-Here are some ideas to get you started:
+- 🔭 Сейчас работаю над проектами на **FastAPI + PostgreSQL** с AI-интеграцией
+- 🌱 Изучаю продвинутый Python и паттерны построения backend-архитектуры
+- 💼 Ищу intern / junior backend позиции
+- 📫 Связаться: aidarw8@gmail.com · [LinkedIn](https://www.linkedin.com/in/veilung-aidar-bu-4306b7362/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Стек:**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📌 Проект
+
+**[AI File Analytics Bot](https://github.com/we1lung/ai_analytics_bot)** — платформа бизнес-аналитики с AI-чатом (FastAPI, PostgreSQL, React, Groq/LLaMA 3.3).
+🔗 Демо: [ai-analytics-chat-bot.netlify.app](https://ai-analytics-chat-bot.netlify.app)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=we1lung&show_icons=true&theme=default)
