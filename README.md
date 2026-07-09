@@ -26,6 +26,3 @@ Backend-разработчик (Python), сфокусирован на Django RE
 
 🔗 Демо: [ai-analytics-chat-bot.netlify.app](https://ai-analytics-chat-bot.netlify.app)
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=we1lung&show_icons=true&theme=default)
